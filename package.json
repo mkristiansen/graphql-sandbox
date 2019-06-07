@@ -1,0 +1,13 @@
+{
+  "name": "graphql-hooks",
+  "version": "1.0.0",
+  "description": "Testing how to build graphql-based apps",
+  "main": "index.js",
+  "author": "morten.kristiansen@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@forrestjs/hooks": "^2.9.2",
+    "@forrestjs/service-express": "^2.9.2",
+    "@forrestjs/service-express-graphql": "^2.9.2"
+  }
+}
